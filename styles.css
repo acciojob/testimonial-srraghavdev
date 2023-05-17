@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+#main{
+	background-color:#f5f5f5;
+	width: 800px;
+		height: 300px;
+}
+#heading{
+	padding-left: 30px;
+	padding-top: 40px;
+}
+#box1{
+	padding-left: 10px;
+	background-color:white;
+	border-style: solid;
+	border-color:white;
+	width:710px;
+	height:60px;
+	margin: left 0px;
+	left: 40px;
+    position: absolute;
+}
+#box2{
+	padding-left: 10px;
+	background-color:white;
+	border-style: solid;
+	border-color:white;
+	width:710px;
+	height:60px;
+	margin: left 0px;
+	left: 40px;
+	top:220px;
+    position: absolute;
+}
+	
+}
