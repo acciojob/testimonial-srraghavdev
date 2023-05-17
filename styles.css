@@ -31,9 +31,13 @@
 	top:220px;
     position: absolute;
 }
-p{ text-align: right;
+p{ text-align: left;
   font-style: italic;
 }
-
-}	
+#foot{
+	text-align: right;
+  font-style: italic;
+	position: relative;
+ bottom: 10px;
+right: 10px;	
 }
